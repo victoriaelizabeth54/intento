@@ -1,0 +1,47 @@
+body{background-color: #FEF5E7}
+h3{text-align: center;}
+
+@font-face {
+ font-family: 'Alkidenz';
+ font-style: normal;
+ font-weight: normal;
+ src: url('lemon.otf');
+ }
+h1{
+ font-family: 'Alkidenz';
+ }
+
+ @font-face {
+ font-family: 'bienvenida';
+ font-style: bolder;
+ font-weight: 900;
+ src: url('lettering.otf');
+ }
+h2{
+ font-family: 'bienvenida';
+ }
+
+ h2{font-size: 90px}
+
+ @font-face {
+ font-family: 'encabezado';
+ font-style: bolder;
+ font-weight: 900;
+ src: url('coolvetica.otf');
+ }
+h3{
+ font-family: 'encabezado';
+}
+h3{font-size:  30px}
+
+@font-face {
+ font-family: 'texto';
+ font-style: bolder;
+ font-weight: 900;
+ src: url('bebas.otf');
+ }
+h4{
+ font-family: 'texto';
+}
+h4{text-align: center;}
+h4{font-size: 30px}
